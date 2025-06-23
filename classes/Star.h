@@ -8,7 +8,9 @@ class Star
 {
 public:
     Star()
-        : x(rand() % W), y(rand() % H), R(rand() % 2 + 1), r(rand() % 256), g(rand() % 256), b(rand() % 256), dx(0), dy(1.5)
+        : x(rand() % W), y(rand() % H), R(rand() % 2 + 1), 
+        r(rand() % 256), g(rand() % 256), b(rand() % 256), 
+        dx(0), dy(1.5)
     {
         if (R == 1)
         {
