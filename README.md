@@ -20,4 +20,4 @@ I built this clone to explore:
 ```bash
 git clone https://github.com/OladayoOyedeji/Galaxian-Clone.git
 cd Galaxian-Clone
-make; make r```
+make; make r
